@@ -40,9 +40,9 @@ client.on('ready', async () => {
     .setName('Hollywood Community')
     .setDetails(`.gg/hly1`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://imgur.com/pURceG8') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://imgur.com/a/JPvyWhJ') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Hollywood') 
-    .setAssetsSmallImage('https://imgur.com/5CUaLsq') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://imgur.com/a/EUHjhjy') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('VIP') 
     .addButton('discord.gg/hly1', 'https://discord.gg/hly1');
 

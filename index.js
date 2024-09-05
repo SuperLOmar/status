@@ -40,7 +40,7 @@ client.on('ready', async () => {
     .setName('Hollywood Community')
     .setDetails(`.gg/hly1`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://imgur.com/a/JPvyWhJ') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1258080781373276190/1281141250942308362/744d85910e8c141b04ae03c3e11673cc.png?ex=66daa344&is=66d951c4&hm=2eeb8b288651699e303f814193874ebe95cbccd5383d21488ab2ccf82157f7cb&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Hollywood') 
     .setAssetsSmallImage('https://imgur.com/a/EUHjhjy') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('VIP') 

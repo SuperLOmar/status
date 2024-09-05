@@ -42,7 +42,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1258080781373276190/1281144095892312087/Resize_image_project.png?ex=66daa5ea&is=66d9546a&hm=a969670d7ad534a2a961ee69934de516f817f7bef037a629624d7f22277e4af9&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Hollywood') 
-    .setAssetsSmallImage('https://imgur.com/a/EUHjhjy') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1258080781373276190/1281144908828246036/Resize_image_project_1.png?ex=66daa6ac&is=66d9552c&hm=be2a3e3a6064b1fe06ccbf019b6efc35b69b2f9870f8bdb70389e1af772f9ebe&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('VIP') 
     .addButton('discord.gg/hly1', 'https://discord.gg/hly1');
 

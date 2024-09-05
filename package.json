@@ -7,11 +7,11 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "@types/node": "^18.0.6",
-        "discord.js-selfbot-v13": "^2.10.1",
+        "@types/node": "^18.7.14",
+        "discord.js-selfbot-v13": "^3.3.0",
         "dotenv": "^16.4.5",
-        "express": "^4.18.2",
-        "node-fetch": "^3.2.6"
+        "express": "^4.19.2",
+        "node-fetch": "^2.6.7"
     },
     "engines": {
         "node": "18"
